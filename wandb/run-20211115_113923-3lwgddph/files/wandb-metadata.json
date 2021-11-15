@@ -1,0 +1,20 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.2",
+    "heartbeatAt": "2021-11-15T02:39:30.001217",
+    "startedAt": "2021-11-15T02:39:23.963477",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\bigshane\\AppData\\Roaming\\jupyter\\runtime\\kernel-2801a353-3f8d-449d-91e3-9227201053ca.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-M0T0PEE",
+    "username": "bigshane",
+    "executable": "C:\\Users\\bigshane\\anaconda3\\envs\\pytorch\\python.exe"
+}
